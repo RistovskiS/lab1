@@ -1,0 +1,12 @@
+C:\Users\136022\lab1>git log
+commit 9250f572300d18bce2d023d5c4c2c6d75d67334d (HEAD -> logging, origin/master, master)
+Author: unknown <ristovski.stefan.2013@students.finki.ukim.mk>
+Date:   Wed Apr 4 17:39:36 2018 +0200
+
+    modify l1.txt
+
+commit 1f1d94465821025269a400bba81529dd688687d9
+Author: unknown <ristovski.stefan.2013@students.finki.ukim.mk>
+Date:   Wed Apr 4 17:29:01 2018 +0200
+
+    Inital commit
